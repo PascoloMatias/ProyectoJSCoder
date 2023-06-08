@@ -1,0 +1,75 @@
+
+[
+    {
+      "id": "Casco-Seguridad",
+      "titulo": " Casco de Seguridad Industrial",
+      "imagen": "../img/cascoseguridad.png",
+      "precio": 6000,
+      "cantidad": 1
+    },
+  
+    {
+      "id": "gafas-proteccion",
+      "titulo": " Gafas con Proteccion Visual Lateral",
+      "imagen": "../img/proteccion-visual.jpg",
+      "precio": 2000,
+      "cantidad": 1
+    },
+  
+    {
+      "id": "Guantes-de-trabajo",
+      "titulo": " Guantes",
+      "imagen": "../img/guantes-de-trabajo.jpg",
+      "precio": 1000,
+      "cantidad": 1
+    },
+  
+    {
+      "id": "guantes-poliuretano",
+      "titulo": " Guantes de Seguridad",
+      "imagen": "../img/guantes-trabajo.jpg",
+      "precio": 2300,
+      "cantidad": 1
+    },
+  
+    {
+      "id": "proteccion-auditiva",
+      "titulo": "Protector Auditivo",
+      "imagen": "../img/proteccion-auditiva.jpg",
+      "precio": 3800,
+      "cantidad": 1
+    },
+  
+    {
+      "id": "proteccion-respiratoria",
+      "titulo": " Proteccion Respiratoria",
+      "imagen": "../img/proteccion-respiratoria.jpg",
+      "precio": 5000,
+      "cantidad": 1
+    },
+  
+    {
+      "id": "protector-auditivo",
+      "titulo": "Proteccion Auditiva",
+      "imagen": "../img/proteccion-copa.webp",
+      "precio": 3900,
+      "cantidad": 1
+    },
+  
+    {
+      "id": "protector-visual",
+      "titulo": " Proteccion Visual",
+      "imagen": "../img/proteccion-visual.jpg",
+      "precio": 3000,
+      "cantidad": 1
+    },
+  
+    {
+      "id": "zapatos-seguridad",
+      "titulo": " Zapatos con Punta de Metal",
+      "imagen": "../img/zapatosseguridad.jpg",
+      "precio": 9000,
+      "cantidad": 1
+    }
+
+  ]
